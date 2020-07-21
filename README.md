@@ -1,16 +1,20 @@
-### Hi there 👋
+### Greetings, tree!
 
-<!--
-**DestyNova/DestyNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some things I'm learning:
 
-Here are some ideas to get you started:
+* Rust
+* Go
+* Liquid Haskell
+* Character art
+* Jazz piano
+* Irish trad violin
+* Chinese
+* Japanese
+* Perfect pitch (still not sure if it's possible)
+* How to actually finish things instead of opening a new tab for everything... will be my epitaph.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+
+* Open an issue on my [personal repo](https://github.com/DestyNova/DestyNova)
+* Send me an email, if you already happen to know the address
+* Leave an angry comment on [my blog](https://overto.eu) (powered by really neato "serverless" [Utterances](https://utteranc.es) widget which uses Github issues as a commenting system).
