@@ -4,6 +4,7 @@ Some things I'm learning:
 
 * Rust
 * Go
+* Haskell
 * Liquid Haskell
 * Character art
 * Jazz piano
