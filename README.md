@@ -2,11 +2,11 @@
 
 Some things I'm learning:
 
-* Rust
-* Go
-* Haskell
-* Picat
-* Liquid Haskell
+* [Rust](https://www.rust-lang.org)
+* [Go](https://go.dev)
+* [Haskell](https://www.haskell.org)
+* [Picat](http://picat-lang.org)
+* [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog)
 * Character art
 * Jazz piano
 * Irish trad violin
