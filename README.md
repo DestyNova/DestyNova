@@ -7,6 +7,7 @@ Some things I'm learning:
 * [Haskell](https://www.haskell.org)
 * [Picat](http://picat-lang.org)
 * [Liquid Haskell](https://ucsd-progsys.github.io/liquidhaskell-blog)
+* [Nim](https://nim-lang.org)
 * Character art
 * Jazz piano
 * Irish trad violin
